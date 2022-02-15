@@ -78,5 +78,10 @@ nav {
     max-height: 100%;
 }
 
+@media (max-width: 400px){
+    .nav .nav-links > a >{
+      font-size: 12;
+    }
+}
 
   
