@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="song_sheet.css"?>
+<bandSetList>
+    <bandName>
+        Party Crashers
+    </bandName>
+    <setList>
+        <song>
+            <title>Sing</title>
+
+            <artists>Ed Sheeran</artists>
+
+            <genres>R and B</genres>
+
+            <year>2014</year>
+        </song>
+
+        <song>
+            <title>Summer</title>
+
+            <artists>Calvin Harris</artists>
+
+            <genres>Pop</genres>
+
+            <year>2014</year>
+        </song>
+
+        <song>
+            <title>Burn</title>
+
+            <artists>Ellie Goulding</artists>
+
+            <genres>Electropop</genres>
+
+            <year>2013</year>
+        </song>
+
+        <song>
+            <title>Sky Full of Stars</title>
+
+            <artists>Coldplay</artists>
+
+            <genres>Progressive House</genres>
+
+            <year>2014</year>
+        </song>
+
+        <song>
+            <title>Call Me Maybe</title>
+
+            <artists>Carly Rae Jepsen</artists>
+
+            <genres>Pop</genres>
+
+            <year>2011</year>
+        </song>
+
+        <song>
+            <title>We Found Love</title>
+
+            <artists>Rihanna</artists>
+
+            <genres>Electro House</genres>
+
+            <year>2011</year>
+        </song>
+
+        <song>
+            <title>Good Feeling</title>
+
+            <artists>Flo Rida, Avicii</artists>
+
+            <genres>Hip House, Eurodance</genres>
+
+            <year>2011</year>
+        </song>
+
+        <song>
+            <title>Starships</title>
+
+            <artists>Nicki Minaj</artists>
+
+            <genres>Dance Pop</genres>
+
+            <year>2012</year>
+        </song>
+
+        <song>
+            <title>Gangnam Style</title>
+
+            <artists>Psy</artists>
+
+            <genres>K-pop</genres>
+
+            <year>2012</year>
+        </song>
+
+        <song>
+            <title>You Make Me Feel</title>
+
+            <artists>Cobra Starship</artists>
+
+            <genres>Dance Pop</genres>
+
+            <year>2011</year>
+        </song>
+    </setList>
+</bandSetList>

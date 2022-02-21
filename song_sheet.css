@@ -1,0 +1,24 @@
+bandName {
+    font-size: large;
+}
+
+song {
+    border: 1px solid;
+    display: block;
+}
+
+title {
+    font-size: medium;
+}
+
+artists {
+    font-size: small
+}
+
+genres {
+    font-size: small
+}
+
+year {
+    font-size: small
+}
